@@ -54,6 +54,7 @@ source venv/bin/activate
 - Retrieve public and local IP information
 - Retrieve hardware information (CPU, RAM, OS, hostname, etc.)
 - Geolocation lookup based on IP addresses
+- Discord Webhook Utility for Contents and Embeds
 - Cross-platform support (Windows, Linux, macOS)
 - Simple and lightweight
 - BETA: Additional modules are currently under active development
