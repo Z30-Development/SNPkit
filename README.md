@@ -16,6 +16,8 @@ SNPKit is a BETA network utility toolkit for retrieving network, hardware and ge
 Now it also includes a webhook embed sending utility which supports Content, multiple Embeds, Files and Images.
 Future modules will include a custom RPC system for Discord.
 
+> [!IMPORTANT]
+> **Current Version:** 1.0.1 BETA
 ---
 
 ## Installation:
@@ -24,7 +26,8 @@ Future modules will include a custom RPC system for Discord.
 pip install SNPkit
 ```
 - ### Linux:
-> Note: Assume the virtual environment (venv) has already been created!
+> [!NOTE]
+> >Note: Assume the virtual environment (venv) has already been created!
 ```bash
 pip install SNPkit
 ```
