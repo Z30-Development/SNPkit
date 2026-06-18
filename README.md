@@ -1,7 +1,19 @@
+Languages:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
+Supported Operating Systems:
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+---
+Do you need Support or do you have any questions? - Join Our Official Discord Server here:
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4NYxXXqANr)
 
 # SNPkit
-SNPKit is a BETA network utility toolkit for retrieving network, hardware and geolocation information. Future modules will include Discord webhook embed sending utilities and a custom RPC system for Discord.
+SNPKit is a BETA network utility toolkit for retrieving network, hardware and geolocation information. 
+Now it also includes a webhook embed sending utility which supports Content, multiple Embeds, Files and Images.
+Future modules will include a custom RPC system for Discord.
 
 ---
 
