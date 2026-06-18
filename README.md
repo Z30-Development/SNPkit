@@ -9,6 +9,7 @@ Supported Operating Systems:
 Do you need Support or do you have any questions? - Join Our Official Discord Server here:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4NYxXXqANr)
+---
 
 # SNPkit
 SNPKit is a BETA network utility toolkit for retrieving network, hardware and geolocation information. 
